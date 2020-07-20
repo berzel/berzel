@@ -1,6 +1,7 @@
 ### Hello world 👋, you're awesome, I'm awesome. We're all awesome!!
 
-## My Works
+I'm a web developer with a passion. Below are some of my works.
+
 - [My Portfolio](https://berzel.github.io).
 - [Magetsi Website](https://magetsi.co.zw).
 - [TechBoss Website](https://techboss.co.zw).
