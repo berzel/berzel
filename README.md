@@ -2,8 +2,8 @@
 
 I'm a web developer with a passion. Below are some of my works.
 
-- [My Portfolio](https://berzel.github.io).
 - [Senza Job Portal](https://www.senza.co.zw).
+- [Rainham Park Website](https://www.rainhampark.co.zw).
 - [Magetsi Website](https://magetsi.co.zw).
 - [TechBoss Website](https://techboss.co.zw).
 - [AnzaEquip Website](https://anzaequip.co.zw).
