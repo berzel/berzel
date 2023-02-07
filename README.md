@@ -1,4 +1,4 @@
-### Hello world 👋, you're awesome, I'm awesome. We're all awesome!!
+### Hello world 👋!
 
 I'm a web developer with a passion. Below are some of my works.
 
