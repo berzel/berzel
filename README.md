@@ -2,11 +2,11 @@
 
 I'm a web developer with a passion. Below are some of my works.
 
-- [AdFury Online Classifieds](https://www.adfury.co.zw).
 - [Senza Job Portal](https://www.senza.co.zw).
 - [UCPF Website](https://www.ucpf.co.zw).
 - [Rainham Park Website](https://www.rainhampark.co.zw).
 - [Magetsi Website](https://magetsi.co.zw).
+- [AdFury Online Classifieds](https://www.adfury.co.zw).
 - [TechBoss Website](https://techboss.co.zw).
 - [AnzaEquip Website](https://anzaequip.co.zw).
 - [Masawara Investor Portal](https://investor.masawara.com).
